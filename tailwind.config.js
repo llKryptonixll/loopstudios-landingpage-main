@@ -18,6 +18,10 @@ export default {
       fontFamily: {
         alata: ["Alata", "sans-serif"],
         josefin_sans: ["Josefin Sans", "sans-serif"],
+      },
+      padding: {
+        main_page_padding_large: "165px",
+        main_page_padding_small: "30px",
       }
     },
   },
